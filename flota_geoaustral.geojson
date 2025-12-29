@@ -238,7 +238,7 @@
                 "interno": "AF0470",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:39 29/12"
+                "ultima_rx": "12:40 29/12"
             }
         },
         {
@@ -327,8 +327,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.10687,
-                    -24.28193
+                    -69.10587,
+                    -24.28238
                 ]
             },
             "properties": {
