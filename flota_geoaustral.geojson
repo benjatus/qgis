@@ -7,8 +7,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.92696,
-                    -24.22766
+                    -68.92631,
+                    -24.22762
                 ]
             },
             "properties": {
@@ -18,7 +18,7 @@
                 "interno": "AF0550",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:42 29/12"
+                "ultima_rx": "12:43 29/12"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "interno": "900562",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:37 29/12"
+                "ultima_rx": "12:43 29/12"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "interno": "AF0558",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:42 29/12"
+                "ultima_rx": "12:43 29/12"
             }
         },
         {
@@ -87,8 +87,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.93673,
-                    -24.23215
+                    -68.9365,
+                    -24.23206
                 ]
             },
             "properties": {
@@ -98,7 +98,7 @@
                 "interno": "900541",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:24 29/12"
+                "ultima_rx": "12:43 29/12"
             }
         },
         {
@@ -447,8 +447,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.10692,
-                    -24.28118
+                    -69.10634,
+                    -24.28125
                 ]
             },
             "properties": {
@@ -458,7 +458,7 @@
                 "interno": "AF0554",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:42 29/12"
+                "ultima_rx": "12:43 29/12"
             }
         },
         {
