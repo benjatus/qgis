@@ -7,8 +7,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.9309,
-                    -24.22843
+                    -68.93033,
+                    -24.22817
                 ]
             },
             "properties": {
@@ -18,7 +18,7 @@
                 "interno": "AF0550",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:34 29/12"
+                "ultima_rx": "12:35 29/12"
             }
         },
         {
@@ -67,8 +67,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.94467,
-                    -24.23325
+                    -68.94589,
+                    -24.23322
                 ]
             },
             "properties": {
@@ -227,8 +227,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.92155,
-                    -24.22727
+                    -68.9219,
+                    -24.22729
                 ]
             },
             "properties": {
@@ -238,7 +238,7 @@
                 "interno": "AF0470",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:34 29/12"
+                "ultima_rx": "12:35 29/12"
             }
         },
         {
@@ -327,8 +327,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.12723,
-                    -24.2657
+                    -69.12634,
+                    -24.26616
                 ]
             },
             "properties": {
@@ -338,7 +338,7 @@
                 "interno": "900557",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:34 29/12"
+                "ultima_rx": "12:35 29/12"
             }
         },
         {
@@ -347,8 +347,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.94959,
-                    -24.23318
+                    -68.94898,
+                    -24.23327
                 ]
             },
             "properties": {
