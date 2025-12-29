@@ -47,8 +47,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.10715,
-                    -24.28115
+                    -69.10646,
+                    -24.28126
                 ]
             },
             "properties": {
@@ -238,7 +238,7 @@
                 "interno": "AF0470",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:43 29/12"
+                "ultima_rx": "12:44 29/12"
             }
         },
         {
@@ -447,8 +447,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.10965,
-                    -24.28133
+                    -69.1098,
+                    -24.28134
                 ]
             },
             "properties": {
