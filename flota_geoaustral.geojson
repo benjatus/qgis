@@ -67,8 +67,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.95001,
-                    -24.23313
+                    -68.95145,
+                    -24.23302
                 ]
             },
             "properties": {
@@ -78,7 +78,7 @@
                 "interno": "AF0558",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:35 29/12"
+                "ultima_rx": "12:36 29/12"
             }
         },
         {
@@ -227,8 +227,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.92206,
-                    -24.22729
+                    -68.92177,
+                    -24.22727
                 ]
             },
             "properties": {
@@ -238,7 +238,7 @@
                 "interno": "AF0470",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:35 29/12"
+                "ultima_rx": "12:36 29/12"
             }
         },
         {
@@ -327,8 +327,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.12526,
-                    -24.2693
+                    -69.12417,
+                    -24.27087
                 ]
             },
             "properties": {
@@ -338,7 +338,7 @@
                 "interno": "900557",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:35 29/12"
+                "ultima_rx": "12:36 29/12"
             }
         },
         {
@@ -347,8 +347,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.94633,
-                    -24.23322
+                    -68.94514,
+                    -24.23323
                 ]
             },
             "properties": {
@@ -358,7 +358,7 @@
                 "interno": "AF0557",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:35 29/12"
+                "ultima_rx": "12:36 29/12"
             }
         },
         {
