@@ -47,8 +47,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.11825,
-                    -24.26076
+                    -69.12014,
+                    -24.26021
                 ]
             },
             "properties": {
@@ -58,7 +58,7 @@
                 "interno": "900562",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:50 29/12"
+                "ultima_rx": "12:51 29/12"
             }
         },
         {
@@ -67,8 +67,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.99883,
-                    -24.23577
+                    -69.0004,
+                    -24.23572
                 ]
             },
             "properties": {
@@ -447,8 +447,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.12403,
-                    -24.25737
+                    -69.12314,
+                    -24.25766
                 ]
             },
             "properties": {
@@ -478,7 +478,7 @@
                 "interno": "AF0574",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:38 29/12"
+                "ultima_rx": "12:50 29/12"
             }
         },
         {
