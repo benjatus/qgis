@@ -47,8 +47,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.11214,
-                    -24.28022
+                    -69.11251,
+                    -24.27924
                 ]
             },
             "properties": {
@@ -378,7 +378,7 @@
                 "interno": "AF0556",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:45 29/12"
+                "ultima_rx": "12:46 29/12"
             }
         },
         {
@@ -447,8 +447,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.1126,
-                    -24.27426
+                    -69.11284,
+                    -24.27353
                 ]
             },
             "properties": {
