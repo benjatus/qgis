@@ -1,0 +1,545 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 153070,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.94091,
+                    -24.23361
+                ]
+            },
+            "properties": {
+                "fid": 153070,
+                "patente": "VBZC64",
+                "equipo": "Motoniveladora Jhon Deere 670G",
+                "interno": "AF0550",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:10 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159010,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.10843,
+                    -24.28131
+                ]
+            },
+            "properties": {
+                "fid": 159010,
+                "patente": "VDLF25",
+                "equipo": "Bacheadora Mercedes Benz 1729",
+                "interno": "AF0573",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "11:58 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150694,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.10708,
+                    -24.28149
+                ]
+            },
+            "properties": {
+                "fid": 150694,
+                "patente": "VBDD52",
+                "equipo": "Camioneta Toyota Hiylux 2,4",
+                "interno": "900562",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:04 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154429,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.92198,
+                    -24.22709
+                ]
+            },
+            "properties": {
+                "fid": 154429,
+                "patente": "VBPF12",
+                "equipo": "Camión 3/4 Mitsubishi Fuso Canter 715 DC",
+                "interno": "AF0558",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:08 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148262,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.94995,
+                    -24.23292
+                ]
+            },
+            "properties": {
+                "fid": 148262,
+                "patente": "TYYX92",
+                "equipo": "Camión Aljibe MB Arocs 4848 30m3",
+                "interno": "900541",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:06 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192010,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.29593,
+                    -23.6414
+                ]
+            },
+            "properties": {
+                "fid": 192010,
+                "patente": "VKPD89",
+                "equipo": "Desconocido",
+                "interno": "S/N",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:03 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151170,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.10755,
+                    -24.28115
+                ]
+            },
+            "properties": {
+                "fid": 151170,
+                "patente": "VBDD20",
+                "equipo": "Camioneta Toyota Hiylux 2,4",
+                "interno": "900558",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:10 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150937,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.10753,
+                    -24.28115
+                ]
+            },
+            "properties": {
+                "fid": 150937,
+                "patente": "VBDD55",
+                "equipo": "Camioneta Toyota Hiylux 2,4",
+                "interno": "900560",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:08 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150933,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.92203,
+                    -24.22709
+                ]
+            },
+            "properties": {
+                "fid": 150933,
+                "patente": "VBDD50",
+                "equipo": "Camioneta Toyota Hiylux 2,4",
+                "interno": "900561",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "11:58 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154522,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.10794,
+                    -24.28127
+                ]
+            },
+            "properties": {
+                "fid": 154522,
+                "patente": "VBPD82",
+                "equipo": "Camión Pintabandas Fuso Canter 715 DC",
+                "interno": "AF0559",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "18:17 27/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137890,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.56726,
+                    -22.45928
+                ]
+            },
+            "properties": {
+                "fid": 137890,
+                "patente": "TLRV96",
+                "equipo": "Desconocido",
+                "interno": "S/N",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:02 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155025,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.93605,
+                    -24.23187
+                ]
+            },
+            "properties": {
+                "fid": 155025,
+                "patente": "SZPW45",
+                "equipo": "Motoniveladora Jhon Deere 670G",
+                "interno": "AF0470",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:10 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142312,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.39291,
+                    -23.57166
+                ]
+            },
+            "properties": {
+                "fid": 142312,
+                "patente": "SVDG77",
+                "equipo": "Desconocido",
+                "interno": "S/N",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "14:02 14/10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157031,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.05981,
+                    -24.17722
+                ]
+            },
+            "properties": {
+                "fid": 157031,
+                "patente": "VDFV95",
+                "equipo": "Desconocido",
+                "interno": "S/N",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "16:52 22/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152872,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.10872,
+                    -24.28113
+                ]
+            },
+            "properties": {
+                "fid": 152872,
+                "patente": "VBPJ74",
+                "equipo": "Tracto Camión MB New Actros 2645",
+                "interno": "AF0551",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "11:58 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172805,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.08605,
+                    -24.33803
+                ]
+            },
+            "properties": {
+                "fid": 172805,
+                "patente": "VHPR47",
+                "equipo": "Excavadora Komatsu 210",
+                "interno": "AF0616",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "03:28 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151421,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.12734,
+                    -24.26616
+                ]
+            },
+            "properties": {
+                "fid": 151421,
+                "patente": "VBDD53",
+                "equipo": "Camioneta Toyota Hiylux 2,4",
+                "interno": "900557",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:10 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152938,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.00721,
+                    -24.2513
+                ]
+            },
+            "properties": {
+                "fid": 152938,
+                "patente": "VBZC80",
+                "equipo": "Camión Aljibe MB Arocs 4848K",
+                "interno": "AF0557",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:10 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155027,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.92187,
+                    -24.22718
+                ]
+            },
+            "properties": {
+                "fid": 155027,
+                "patente": "VCLL11",
+                "equipo": "Rodillo Caterpillar CS10GC",
+                "interno": "AF0556",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:10 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152624,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.04109,
+                    -24.23499
+                ]
+            },
+            "properties": {
+                "fid": 152624,
+                "patente": "TWKY88",
+                "equipo": "Retroexcabadora Caterpillar 416",
+                "interno": "AF0538",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:07 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155026,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.10835,
+                    -24.28139
+                ]
+            },
+            "properties": {
+                "fid": 155026,
+                "patente": "VBPX54",
+                "equipo": "Minicargador Caterpillar 236D",
+                "interno": "AF0553",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:00 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154390,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.10794,
+                    -24.28111
+                ]
+            },
+            "properties": {
+                "fid": 154390,
+                "patente": "TWJP25",
+                "equipo": "Camión Tolva MB Arocs 4848 8X4 20M2",
+                "interno": "AF0542",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "16:07 28/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152940,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.1069,
+                    -24.28153
+                ]
+            },
+            "properties": {
+                "fid": 152940,
+                "patente": "VBPJ90",
+                "equipo": "Camión 3/4 Mitsubishi Fuso Canter 715 CS",
+                "interno": "AF0554",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:04 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157756,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.29675,
+                    -23.64156
+                ]
+            },
+            "properties": {
+                "fid": 157756,
+                "patente": "TWBF98",
+                "equipo": "Barredora Mercedes Benz Atego 1729",
+                "interno": "AF0574",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:01 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155314,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.10848,
+                    -24.2812
+                ]
+            },
+            "properties": {
+                "fid": 155314,
+                "patente": "VCPL53",
+                "equipo": "Camión Salero MB Actros 3242",
+                "interno": "AF0561",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "11:38 27/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154753,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.10823,
+                    -24.28162
+                ]
+            },
+            "properties": {
+                "fid": 154753,
+                "patente": "VCCD33",
+                "equipo": "Camión Petrolero MB Actros 1840 L",
+                "interno": "AF0560",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "08:41 29/12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148162,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.1081,
+                    -24.28115
+                ]
+            },
+            "properties": {
+                "fid": 148162,
+                "patente": "TYHY97",
+                "equipo": "Camión pluma MB Arcos 4148 k",
+                "interno": "AF0549",
+                "ignicion": "APAGADO",
+                "velocidad": "0 km/h",
+                "ultima_rx": "12:05 29/12"
+            }
+        }
+    ]
+}
