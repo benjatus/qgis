@@ -7,8 +7,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.93904,
-                    -24.23306
+                    -68.93807,
+                    -24.23269
                 ]
             },
             "properties": {
@@ -18,7 +18,7 @@
                 "interno": "AF0550",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:17 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         },
         {
@@ -74,7 +74,7 @@
             "properties": {
                 "fid": 154429,
                 "patente": "VBPF12",
-                "equipo": "Camión 3/4 Mitsubishi Fuso Canter 715 DC",
+                "equipo": "Cami\u00f3n 3/4 Mitsubishi Fuso Canter 715 DC",
                 "interno": "AF0558",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
@@ -87,18 +87,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.94441,
-                    -24.23327
+                    -68.94262,
+                    -24.23349
                 ]
             },
             "properties": {
                 "fid": 148262,
                 "patente": "TYYX92",
-                "equipo": "Camión Aljibe MB Arocs 4848 30m3",
+                "equipo": "Cami\u00f3n Aljibe MB Arocs 4848 30m3",
                 "interno": "900541",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:17 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         },
         {
@@ -118,7 +118,7 @@
                 "interno": "S/N",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:17 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         },
         {
@@ -178,7 +178,7 @@
                 "interno": "900561",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:17 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         },
         {
@@ -194,7 +194,7 @@
             "properties": {
                 "fid": 154522,
                 "patente": "VBPD82",
-                "equipo": "Camión Pintabandas Fuso Canter 715 DC",
+                "equipo": "Cami\u00f3n Pintabandas Fuso Canter 715 DC",
                 "interno": "AF0559",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
@@ -207,8 +207,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.60922,
-                    -22.69975
+                    -69.6042,
+                    -22.73275
                 ]
             },
             "properties": {
@@ -218,7 +218,7 @@
                 "interno": "S/N",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:17 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         },
         {
@@ -227,8 +227,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.93014,
-                    -24.22808
+                    -68.92933,
+                    -24.22785
                 ]
             },
             "properties": {
@@ -238,7 +238,7 @@
                 "interno": "AF0470",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:17 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         },
         {
@@ -294,7 +294,7 @@
             "properties": {
                 "fid": 152872,
                 "patente": "VBPJ74",
-                "equipo": "Tracto Camión MB New Actros 2645",
+                "equipo": "Tracto Cami\u00f3n MB New Actros 2645",
                 "interno": "AF0551",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
@@ -347,18 +347,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.03848,
-                    -24.23468
+                    -69.03748,
+                    -24.2344
                 ]
             },
             "properties": {
                 "fid": 152938,
                 "patente": "VBZC80",
-                "equipo": "Camión Aljibe MB Arocs 4848K",
+                "equipo": "Cami\u00f3n Aljibe MB Arocs 4848K",
                 "interno": "AF0557",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:17 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         },
         {
@@ -378,7 +378,7 @@
                 "interno": "AF0556",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:17 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         },
         {
@@ -398,7 +398,7 @@
                 "interno": "AF0538",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:17 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         },
         {
@@ -418,7 +418,7 @@
                 "interno": "AF0553",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:00 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         },
         {
@@ -434,7 +434,7 @@
             "properties": {
                 "fid": 154390,
                 "patente": "TWJP25",
-                "equipo": "Camión Tolva MB Arocs 4848 8X4 20M2",
+                "equipo": "Cami\u00f3n Tolva MB Arocs 4848 8X4 20M2",
                 "interno": "AF0542",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
@@ -454,7 +454,7 @@
             "properties": {
                 "fid": 152940,
                 "patente": "VBPJ90",
-                "equipo": "Camión 3/4 Mitsubishi Fuso Canter 715 CS",
+                "equipo": "Cami\u00f3n 3/4 Mitsubishi Fuso Canter 715 CS",
                 "interno": "AF0554",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
@@ -494,7 +494,7 @@
             "properties": {
                 "fid": 155314,
                 "patente": "VCPL53",
-                "equipo": "Camión Salero MB Actros 3242",
+                "equipo": "Cami\u00f3n Salero MB Actros 3242",
                 "interno": "AF0561",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
@@ -514,7 +514,7 @@
             "properties": {
                 "fid": 154753,
                 "patente": "VCCD33",
-                "equipo": "Camión Petrolero MB Actros 1840 L",
+                "equipo": "Cami\u00f3n Petrolero MB Actros 1840 L",
                 "interno": "AF0560",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
@@ -534,11 +534,11 @@
             "properties": {
                 "fid": 148162,
                 "patente": "TYHY97",
-                "equipo": "Camión pluma MB Arcos 4148 k",
+                "equipo": "Cami\u00f3n pluma MB Arcos 4148 k",
                 "interno": "AF0549",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:05 29/12"
+                "ultima_rx": "12:18 29/12"
             }
         }
     ]
