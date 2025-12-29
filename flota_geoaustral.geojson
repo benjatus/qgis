@@ -38,7 +38,7 @@
                 "interno": "AF0573",
                 "ignicion": "APAGADO",
                 "velocidad": "0 km/h",
-                "ultima_rx": "12:42 29/12"
+                "ultima_rx": "12:47 29/12"
             }
         },
         {
@@ -47,8 +47,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.11313,
-                    -24.27312
+                    -69.11401,
+                    -24.27229
                 ]
             },
             "properties": {
@@ -67,8 +67,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -68.97983,
-                    -24.23628
+                    -68.98062,
+                    -24.23645
                 ]
             },
             "properties": {
@@ -447,8 +447,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.11435,
-                    -24.26357
+                    -69.11345,
+                    -24.26244
                 ]
             },
             "properties": {
